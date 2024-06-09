@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627501911140",
+    "project_id": "barawe-7df08",
+    "storage_bucket": "barawe-7df08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627501911140:android:f7c178a47dd146992da371",
+        "android_client_info": {
+          "package_name": "com.barawe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvpxRh1YN8RaCJeUnfzIMlmUoAdltAiDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
