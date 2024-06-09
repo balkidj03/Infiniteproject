@@ -1,0 +1,10 @@
+export const RESTORE_ADDRESS_SUCCESS = 'RESTORE_ADDRESS_SUCCESS';
+export const LOGIN_USER = 'LOGIN_USER';
+export const USER_LOADING = 'USER_LOADING';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGOUT_USER = 'LOGOUT_USER';
+
+export const SET_COURSES = 'SET_COURSES';
+export const SET_CONTACTS = 'SET_CONTACTS';
+export const SET_CONVERSATIONS = 'SET_CONVERSATIONS';
